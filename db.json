@@ -2,17 +2,17 @@
   "users": [
     {
       "id": 1,
-      "firstName": "John",
-      "lastName": "Doe",
-      "phoneNumber": "+91 98765-43210",
-      "email": "john.doe@example.com"
+      "firstName": "raj",
+      "lastName": "zadafiya",
+      "phoneNumber": "8849230410",
+      "email": "raj@gmail.com"
     },
     {
-      "id": 2,
-      "firstName": "Jane",
-      "lastName": "Smith",
-      "phoneNumber": "9876543210",
-      "email": "jane.smith@example.com"
+      "firstName": "test",
+      "lastName": "demo",
+      "email": "test1@gmail.com",
+      "phoneNumber": "9878965746",
+      "id": 2
     }
   ]
 }

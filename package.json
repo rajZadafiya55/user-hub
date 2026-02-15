@@ -1,5 +1,5 @@
 {
-  "name": "react-mui-crud-userhub",
+  "name": "crud-userhub",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -34,6 +34,7 @@
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",
     "json-server": "^0.17.4",
+    "strip-bom-cli": "^3.0.0",
     "typescript": "^5.5.3",
     "vite": "^5.4.2"
   }

@@ -3,12 +3,12 @@ import { createTheme } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#2563eb', // Modern Blue
+      main: '#2563eb', 
       light: '#60a5fa',
       dark: '#1e40af',
     },
     secondary: {
-      main: '#7c3aed', // Modern Purple
+      main: '#7c3aed', 
       light: '#a78bfa',
       dark: '#5b21b6',
     },

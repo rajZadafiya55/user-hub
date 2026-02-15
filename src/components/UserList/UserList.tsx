@@ -121,10 +121,10 @@ const UserList: React.FC<UserListProps> = ({ users, onEdit, onDelete }) => {
     );
 
     return (
-        <Box>
+        <Box sx={{ p: 2 }}>
             <Box sx={{ mb: 3, display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 2 }}>
                 <Typography variant="h5" color="text.primary">
-                    Users Management
+                    Users List
                 </Typography>
                 <TextField
                     size="small"
